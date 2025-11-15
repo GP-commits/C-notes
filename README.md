@@ -1,5 +1,6 @@
 # C-notes
 c notes for college
+------------------------
 
 <b>While loop</b> while loop syntax: 
 while(condition){
