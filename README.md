@@ -12,3 +12,4 @@ if the condtion is true execute whats inside if it is false exit the loop.
 for example sum += num means,<br>
 sum = sum+num
 ----------------------------------------
+.
